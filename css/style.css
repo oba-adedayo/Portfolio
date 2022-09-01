@@ -63,7 +63,7 @@ li {
 }
 
 /* Section Background */
-.home,
+/* .home, */
 .about,
 .services,
 .plans,
@@ -265,6 +265,7 @@ li {
 	background-position: center;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
+	border: 2px solid red;
 }
 
 .para {
